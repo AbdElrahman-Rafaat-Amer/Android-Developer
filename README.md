@@ -63,11 +63,11 @@ that will enhance my knowledge in mobile application development more senior rol
 ### ClickBuy
 - ClickBuy is an android E-commerce application that helps you to shop online and navigate throw
 a lot of items and brands The user will have the ability to add items to cart or Wishlist. also, it hasmany features such as online payment.
--[Check it](https://github.com/AbdElrahman-Rafaat-Amer/ClickBuy)
+- [Check it](https://github.com/AbdElrahman-Rafaat-Amer/ClickBuy)
 
 ###  Medical Reminde
--Mobile Application helps the user to record his list of medication with the detailed treatments. In addition he can schedule reminders of the dosages. Besides, it supports registering more than one health taker.
--[Check it](https://github.com/AbdElrahman-Rafaat-Amer/Medical-Reminder)
+- Mobile Application helps the user to record his list of medication with the detailed treatments. In addition he can schedule reminders of the dosages. Besides, it supports registering more than one health taker.
+- [Check it](https://github.com/AbdElrahman-Rafaat-Amer/Medical-Reminder)
 
 ###  Weather App
 - Mobile Application that displays the weather status from your location and can pick a specific
@@ -78,9 +78,9 @@ wind speed.
 
 ### Notes App
 - Notes is a simple and awesome colorized note app . It gives you a quick and simple notes editing experience when you write notes, memos, e-mails, messages, shopping lists and to-do lists. Taking notes with Notes. Notes is easier than any other notes or memo pad apps.
--[Check it](https://github.com/AbdElrahman-Rafaat-Amer/NotesApp)
+- [Check it](https://github.com/AbdElrahman-Rafaat-Amer/NotesApp)
 
 ### News App
 - News App is a simple news app which uses News API to fetch top news headlines from the API.
 This app displays news articles of different categories from different countries..
--[Check it](https://github.com/AbdElrahman-Rafaat-Amer/News)
+- [Check it](https://github.com/AbdElrahman-Rafaat-Amer/News)
